@@ -1,0 +1,4 @@
+websockets==12.0
+pandas==2.2.2
+python-dotenv==1.0.1
+orjson==3.10.7
